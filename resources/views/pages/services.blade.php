@@ -14,7 +14,7 @@
         <div class="content">
             <div class="row">
                 <?php
-                  $services = App\Catwiseservice::where('publication_status','1')->get();
+                  $services = App\Catwiseservice::where('publication_status','1')->paginate(5);
                 ?>
                  @foreach($services as $service)
                <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 service-body">
@@ -32,6 +32,7 @@
                  @endforeach
             </div>
         </div>
+        {{ $services->links() }}
         <hr>
     </div>
 </div>
