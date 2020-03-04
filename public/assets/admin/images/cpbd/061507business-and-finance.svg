@@ -1,0 +1,38 @@
+<svg id="Flat" height="512" viewBox="0 0 64 64" width="512" xmlns="http://www.w3.org/2000/svg"><circle cx="21" cy="7" fill="#ffe8ae" r="4"/><path d="m18 8a3.995 3.995 0 0 1 6.281-3.281 4 4 0 1 0 -5.562 5.561 3.972 3.972 0 0 1 -.719-2.28z" fill="#f89c5b"/><circle cx="43" cy="7" fill="#ffe8ae" r="4"/><path d="m43 3a3.993 3.993 0 0 0 -3.281 1.719 3.994 3.994 0 0 1 5.562 5.561 4 4 0 0 0 -2.281-7.28z" fill="#f89c5b"/><path d="m45.606 38.606 3.394 3.394a6.937 6.937 0 0 0 6.581-4.743l.419-1.257a21.643 21.643 0 0 0 -13.413-11.9l-3.587-1.1h-14l-3.587 1.1a21.643 21.643 0 0 0 -13.413 11.9l.419 1.257a6.937 6.937 0 0 0 6.581 4.743l3.4-3.4z" fill="#f89c5b"/><path d="m49 40v2a6.937 6.937 0 0 0 6.581-4.743l.419-1.257h-3a4 4 0 0 0 -4 4z" fill="#ffe8ae"/><path d="m11 36h-3l.419 1.257a6.937 6.937 0 0 0 6.581 4.743v-2a4 4 0 0 0 -4-4z" fill="#ffe8ae"/><path d="m47.718 47.457-.792-1.584a3.389 3.389 0 0 0 -3.026-1.873h-23.8a3.389 3.389 0 0 0 -3.031 1.873l-.791 1.584-1.278 13.289 1.775-.443a10.524 10.524 0 0 0 7.225-6.303 32.988 32.988 0 0 1 16 0 10.523 10.523 0 0 0 7.22 6.3l1.889.473z" fill="#f89c5b"/><path d="m29 25-1.5.752a18.932 18.932 0 0 0 -7.286 6.431 10.821 10.821 0 0 0 -.985 10.161 10.816 10.816 0 0 0 9.982 6.656h5.578a10.816 10.816 0 0 0 9.984-6.656 10.821 10.821 0 0 0 -.985-10.161 18.932 18.932 0 0 0 -7.288-6.431l-1.5-.752z" fill="#ffe8ae"/><path d="m43.789 32.183c-.328-.492-.686-.961-1.057-1.419a10.795 10.795 0 0 1 -9.332 16.236h-5.583a10.811 10.811 0 0 1 -8.117-3.673 10.812 10.812 0 0 0 9.511 5.673h5.578a10.817 10.817 0 0 0 9-16.817z" fill="#ffd257"/><ellipse cx="12.49" cy="53.393" fill="#ffe8ae" rx="7" ry="8" transform="matrix(.707 -.707 .707 .707 -34.097 24.47)"/><path d="m18.438 49.631a6.968 6.968 0 0 1 -1.3 7.543c-2.734 2.733-7.482 2.417-10.606-.708a9.074 9.074 0 0 1 -1-1.186 8.891 8.891 0 0 0 2.008 3.063c3.125 3.124 7.873 3.441 10.607.707 2.406-2.406 2.447-6.373.291-9.419z" fill="#ffd257"/><ellipse cx="51.483" cy="53.393" fill="#ffe8ae" rx="8" ry="7" transform="matrix(.707 -.707 .707 .707 -22.676 52.043)"/><path d="m57.14 47.737a6.169 6.169 0 0 0 -1.2-.932c1.861 2.79 1.318 6.871-1.473 9.661-2.7 2.706-6.627 3.3-9.405 1.639a6.17 6.17 0 0 0 .765.945c2.734 2.734 7.483 2.417 10.607-.707s3.44-7.873.706-10.606z" fill="#ffd257"/><g fill="#895e7a"><path d="m7 52h2v2h-2z"/><path d="m9 49h2v2h-2z"/><path d="m13 49h2v2h-2z"/><path d="m55 52h2v2h-2z"/><path d="m53 49h2v2h-2z"/><path d="m49 49h2v2h-2z"/></g><path d="m32.055 32.858.483.941a22.364 22.364 0 0 1 2.462 10.201h1.48a6.758 6.758 0 0 0 5.52-2.859 14.807 14.807 0 0 0 -3.186-9.175l-.814-1.029-4 .063z" fill="#e94561"/><path d="m38.814 31.966-.814-1.029-1.042.016.8 1.013a14.8 14.8 0 0 1 2.7 5.417 5.3 5.3 0 0 1 -4.967 6.617h.989a6.758 6.758 0 0 0 5.52-2.859 14.807 14.807 0 0 0 -3.186-9.175z" fill="#895e7a"/><path d="m42 18.588v4.27a10 10 0 0 1 -2.929 7.071 10 10 0 0 1 -14.142 0 10 10 0 0 1 -2.929-7.071v-4.271z" fill="#e94561"/><path d="m40 18.587v2.684a10 10 0 0 1 -2.929 7.071 10 10 0 0 1 -12.241 1.478c.035.035.064.074.1.109a10 10 0 0 0 17.07-7.071v-4.27z" fill="#895e7a"/><circle cx="32" cy="14" fill="#f89c5b" r="11"/><circle cx="32" cy="18" fill="#ffe8ae" r="5"/><path d="m27 10h2v2h-2z" fill="#895e7a"/><path d="m35 10h2v2h-2z" fill="#895e7a"/><path d="m35 14.021a3 3 0 0 1 -3 2.979v6a4.985 4.985 0 0 0 3-8.979z" fill="#ffd257"/><path d="m32 17a3 3 0 0 0 3-2.979 4.912 4.912 0 0 0 -6 0 3 3 0 0 0 3 2.979z" fill="#aa889f"/><path d="m32 13a4.594 4.594 0 0 0 -.5.043 4.984 4.984 0 0 1 2.5.978 3 3 0 0 1 -2.5 2.929 3.06 3.06 0 0 0 .5.05 3 3 0 0 0 3-2.979 4.955 4.955 0 0 0 -3-1.021z" fill="#895e7a"/><!-- Code injected by live-server -->
+<script type="text/javascript">
+	// <![CDATA[  <-- For SVG support
+	if ('WebSocket' in window) {
+		(function () {
+			function refreshCSS() {
+				var sheets = [].slice.call(document.getElementsByTagName("link"));
+				var head = document.getElementsByTagName("head")[0];
+				for (var i = 0; i < sheets.length; ++i) {
+					var elem = sheets[i];
+					var parent = elem.parentElement || head;
+					parent.removeChild(elem);
+					var rel = elem.rel;
+					if (elem.href && typeof rel != "string" || rel.length == 0 || rel.toLowerCase() == "stylesheet") {
+						var url = elem.href.replace(/(&|\?)_cacheOverride=\d+/, '');
+						elem.href = url + (url.indexOf('?') >= 0 ? '&' : '?') + '_cacheOverride=' + (new Date().valueOf());
+					}
+					parent.appendChild(elem);
+				}
+			}
+			var protocol = window.location.protocol === 'http:' ? 'ws://' : 'wss://';
+			var address = protocol + window.location.host + window.location.pathname + '/ws';
+			var socket = new WebSocket(address);
+			socket.onmessage = function (msg) {
+				if (msg.data == 'reload') window.location.reload();
+				else if (msg.data == 'refreshcss') refreshCSS();
+			};
+			if (sessionStorage && !sessionStorage.getItem('IsThisFirstTime_Log_From_LiveServer')) {
+				console.log('Live reload enabled.');
+				sessionStorage.setItem('IsThisFirstTime_Log_From_LiveServer', true);
+			}
+		})();
+	}
+	else {
+		console.error('Upgrade your browser. This Browser is NOT supported WebSocket for Live-Reloading.');
+	}
+	// ]]>
+</script></svg>

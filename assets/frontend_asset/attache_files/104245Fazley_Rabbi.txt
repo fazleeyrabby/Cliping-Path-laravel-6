@@ -1,0 +1,2 @@
+->install xampp,sublime text,visual studio,composer,
+->install laravel project with multi authintication left
